@@ -1,0 +1,207 @@
+TiPlaques
+v7
+r0
+t317390631.945055
+cCheck dependencies
+cProcessInfoPlistFile /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/Info.plist iPlaques-Info.plist
+cCompileXIB /Users/bens/projects/iphone/iPlaques/MainWindow.xib
+cProcessPCH /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPlaques_Prefix-eetyqaciazrwfdfqbycitvdjahut/iPlaques_Prefix.pch.gch iPlaques_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/main.o /Users/bens/projects/iphone/iPlaques/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/iPlaquesAppDelegate.o /Users/bens/projects/iphone/iPlaques/Classes/iPlaquesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/iPlaques normal i386
+cGenerateDSYMFile /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app.dSYM /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/iPlaques
+cTouch /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/bens/projects/iphone/iPlaques/Classes/iPlaquesAppDelegate.h
+c000000004D3AC68D00000000000000D4
+t1295697549
+s212
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/iPlaques/Classes/iPlaquesAppDelegate.m
+c000000004D3AC7A3000000000000099F
+t1295697827
+s2463
+i"iPlaquesAppDelegate.h"
+
+N/Users/bens/projects/iphone/iPlaques/MainWindow.xib
+c000000004D3AC73C0000000000005085
+t1295697724
+s20613
+
+N/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app
+t1295697831
+s204
+
+N/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app.dSYM
+t1295697831
+s102
+
+N/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/Info.plist
+t1295697733
+s595
+
+N/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/MainWindow.nib
+t1295697733
+s1939
+
+N/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/PkgInfo
+t1295697733
+s8
+
+N/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/iPlaques
+t1295697831
+s15956
+
+N/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/iPlaques.LinkFileList
+c000000004D3AC7450000000000000103
+t1295697733
+s259
+
+N/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/iPlaquesAppDelegate.o
+t1295697831
+s47956
+
+N/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/main.o
+t1295697735
+s6300
+
+N/Users/bens/projects/iphone/iPlaques/iPlaques_Prefix.pch
+c000000004D3AC61D00000000000000B9
+t1295697437
+s185
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/bens/projects/iphone/iPlaques/main.m
+c000000004D3AC61D000000000000016A
+t1295697437
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPlaques_Prefix-eetyqaciazrwfdfqbycitvdjahut/iPlaques_Prefix.pch.gch
+t1295697735
+s15211536
+
+NiPlaques-Info.plist
+c000000004D3AC61D000000000000038D
+t1295697437
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317390631#317390631#0(0"0(0#1#0"3343187568374212096#0"0#
+
+CCompileC build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/iPlaquesAppDelegate.o /Users/bens/projects/iphone/iPlaques/Classes/iPlaquesAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317390631.834234
+e317390631.904764
+r1
+xCompileC
+xbuild/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/iPlaquesAppDelegate.o
+x/Users/bens/projects/iphone/iPlaques/Classes/iPlaquesAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/bens/projects/iphone/iPlaques/Classes/iPlaquesAppDelegate.m317390631#317390631#0(0"0(0#0#66"/Users/bens/projects/iphone/iPlaques/Classes/iPlaquesAppDelegate.m8606231904#2012"    cd /Users/bens/projects/iphone/iPlaques    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-generated-files.hmap -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-own-target-headers.hmap -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-all-target-headers.hmap -iquote /Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-project-headers.hmap -F/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/include -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/DerivedSources/i386 -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPlaques_Prefix-eetyqaciazrwfdfqbycitvdjahut/iPlaques_Prefix.pch -c /Users/bens/projects/iphone/iPlaques/Classes/iPlaquesAppDelegate.m -o /Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/iPlaquesAppDelegate.o0#
+
+CCompileC build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/main.o /Users/bens/projects/iphone/iPlaques/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317390535.127134
+e317390535.269812
+r1
+xCompileC
+xbuild/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/main.o
+x/Users/bens/projects/iphone/iPlaques/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/bens/projects/iphone/iPlaques/main.m317390535#317390535#0(0"0(0#0#43"/Users/bens/projects/iphone/iPlaques/main.m8601447232#1974"    cd /Users/bens/projects/iphone/iPlaques    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-generated-files.hmap -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-own-target-headers.hmap -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-all-target-headers.hmap -iquote /Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-project-headers.hmap -F/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/include -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/DerivedSources/i386 -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/DerivedSources -include /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPlaques_Prefix-eetyqaciazrwfdfqbycitvdjahut/iPlaques_Prefix.pch -c /Users/bens/projects/iphone/iPlaques/main.m -o /Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/bens/projects/iphone/iPlaques/MainWindow.xib
+s317390533.373543
+e317390534.002045
+r1
+xCompileXIB
+x/Users/bens/projects/iphone/iPlaques/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib317390533#317390534#0(0"0(0#0#51"/Users/bens/projects/iphone/iPlaques/MainWindow.xib8602921056#627"    cd /Users/bens/projects/iphone/iPlaques    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/MainWindow.nib /Users/bens/projects/iphone/iPlaques/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app.dSYM /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/iPlaques
+s317390631.929254
+e317390631.942466
+r1
+xGenerateDSYMFile
+x/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app.dSYM
+x/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/iPlaques
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/iPlaques.app.dSYM build/Debug-iphonesimulator/iPlaques.app/iPlaques317390631#317390631#0(0"0(0#0#86"/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/iPlaques8605743200#442"    cd /Users/bens/projects/iphone/iPlaques    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/iPlaques -o /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app.dSYM0#
+
+CLd /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/iPlaques normal i386
+s317390631.904851
+e317390631.929148
+r1
+xLd
+x/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/iPlaques
+xnormal
+xi386
+lSLF07#2@91"Link /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/iPlaques317390631#317390631#0(0"0(0#0#0"8601827904#957"    cd /Users/bens/projects/iphone/iPlaques    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator -F/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator -filelist /Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/Objects-normal/i386/iPlaques.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/iPlaques0#
+
+CProcessInfoPlistFile /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/Info.plist iPlaques-Info.plist
+s317390533.333660
+e317390533.373456
+r1
+xProcessInfoPlistFile
+x/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/Info.plist
+xiPlaques-Info.plist
+lSLF07#2@27"Process iPlaques-Info.plist317390533#317390533#0(0"0(0#0#56"/Users/bens/projects/iphone/iPlaques/iPlaques-Info.plist28429445101453416#538"    cd /Users/bens/projects/iphone/iPlaques    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility iPlaques-Info.plist -genpkginfo /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app/Info.plist0#
+
+CProcessPCH /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPlaques_Prefix-eetyqaciazrwfdfqbycitvdjahut/iPlaques_Prefix.pch.gch iPlaques_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s317390534.002265
+e317390535.126898
+r1
+xProcessPCH
+x/var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPlaques_Prefix-eetyqaciazrwfdfqbycitvdjahut/iPlaques_Prefix.pch.gch
+xiPlaques_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile iPlaques_Prefix.pch317390534#317390535#0(0"0(0#0#56"/Users/bens/projects/iphone/iPlaques/iPlaques_Prefix.pch8601753888#1867"    cd /Users/bens/projects/iphone/iPlaques    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-generated-files.hmap -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-own-target-headers.hmap -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-all-target-headers.hmap -iquote /Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/iPlaques-project-headers.hmap -F/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator -I/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/include -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/DerivedSources/i386 -I/Users/bens/projects/iphone/iPlaques/build/iPlaques.build/Debug-iphonesimulator/iPlaques.build/DerivedSources -c /Users/bens/projects/iphone/iPlaques/iPlaques_Prefix.pch -o /var/folders/X2/X2Nd2lttFoujKKtE3T2gH++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/iPlaques_Prefix-eetyqaciazrwfdfqbycitvdjahut/iPlaques_Prefix.pch.gch0#
+
+CTouch /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app
+s317390631.942554
+e317390631.945018
+r1
+xTouch
+x/Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app
+lSLF07#2@83"Touch /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app317390631#317390631#0(0"0(0#0#0"8605709504#337"    cd /Users/bens/projects/iphone/iPlaques    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/bens/projects/iphone/iPlaques/build/Debug-iphonesimulator/iPlaques.app0#
+
